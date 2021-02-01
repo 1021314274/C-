@@ -1,0 +1,4 @@
+﻿  5-数组.cpp
+D:\C\demo\demo\5-数组.cpp(10,6): warning C4101: “arr”: 未引用的局部变量
+D:\C\demo\demo\5-数组.cpp(49,6): warning C4101: “arrs”: 未引用的局部变量
+  demo.vcxproj -> D:\C\demo\Debug\demo.exe
